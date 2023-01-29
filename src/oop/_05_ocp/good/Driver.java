@@ -1,5 +1,7 @@
 package oop._05_ocp.good;
 
+import oop._05_ocp.bad.Drive;
+
 public class Driver {
 
     /**
@@ -15,6 +17,10 @@ public class Driver {
 
     void driving() {
         car.run();
+    }
+
+    void print() {
+        System.out.println(car.getClass());
     }
 
 }

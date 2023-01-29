@@ -1,4 +1,4 @@
-package oop._04_srp.bad;
+package oop._04_srp.bike.bad;
 
 public class Bike {
 
