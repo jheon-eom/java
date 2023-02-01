@@ -1,4 +1,4 @@
-package _java.learntoenum;
+package java_._01_enum;
 
 public class EnumTest {
 
