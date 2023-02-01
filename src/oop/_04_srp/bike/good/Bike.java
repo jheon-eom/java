@@ -1,4 +1,4 @@
-package oop._04_srp.good;
+package oop._04_srp.bike.good;
 
 /**
  * 추상클래스 선언

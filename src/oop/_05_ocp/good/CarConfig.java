@@ -5,7 +5,7 @@ public class CarConfig {
 
 //    @Bean
     public Driver driver() {
-        return new Driver(new Avante());
+        return new Driver(new Tico());
     }
 
 }

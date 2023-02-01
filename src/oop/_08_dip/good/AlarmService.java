@@ -3,7 +3,7 @@ package oop._08_dip.good;
 public class AlarmService {
 
     // 학습 내용에 final은 상관 없음
-    private final Alarm alarm;
+    private final Alarm alarm; // 추상화에 의존
 
     public AlarmService(Alarm alarm) {
         this.alarm = alarm;

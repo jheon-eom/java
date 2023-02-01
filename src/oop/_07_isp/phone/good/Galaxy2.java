@@ -12,6 +12,7 @@ public class Galaxy2 implements SmartPhone, Galaxy2Function {
         return "connect complete!";
     }
 
+    @Override
     public String video() {
         return "play video";
     }

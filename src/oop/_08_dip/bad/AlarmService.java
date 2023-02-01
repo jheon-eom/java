@@ -2,6 +2,10 @@ package oop._08_dip.bad;
 
 public class AlarmService {
 
+    /**
+     * 클라이언트가 구체화에 의존하고 있어서 생기는 문제..
+     * 추상화에 의존하라고 하면... interface
+     */
     private A alarmA = new A();
     private B alarmB = new B();
 
