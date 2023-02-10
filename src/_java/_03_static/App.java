@@ -1,4 +1,4 @@
-package java_._03_static;
+package _java._03_static;
 
 public class App {
 
@@ -17,6 +17,9 @@ public class App {
          * 4. 메서드가 공유되고 있다면, 정적 메서드로 추출해낼 수 있다.
          * 5. 메서드가 변화되지 않고, 오버라이딩 되지 않는다.
          */
+
+        MyTest myTest = new MyTest();
+        MyTest.InnerClass mi = new MyTest.InnerClass();
     }
 
 }

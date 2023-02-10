@@ -1,4 +1,4 @@
-package java_._01_enum;
+package _java._01_enum;
 
 public enum BadEnum {
 

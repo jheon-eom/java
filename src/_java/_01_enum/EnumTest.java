@@ -1,7 +1,4 @@
-package java_._01_enum;
-
-import java.util.ArrayList;
-import java.util.List;
+package _java._01_enum;
 
 public class EnumTest {
 

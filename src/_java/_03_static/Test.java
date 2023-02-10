@@ -1,4 +1,4 @@
-package java_._03_static;
+package _java._03_static;
 
 public class Test {
 
