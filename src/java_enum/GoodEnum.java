@@ -1,4 +1,4 @@
-package _java._01_enum;
+package java_enum;
 
 public enum GoodEnum {
 
