@@ -16,7 +16,6 @@ public class UseStackClass {
         // pop
         stack.pop();
         System.out.println("pop 이후 stack의 size는 = " + stack.size());
-
     }
 
     private static void extracted(Stack stack) {

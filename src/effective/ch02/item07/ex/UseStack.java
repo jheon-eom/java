@@ -8,7 +8,6 @@ public class UseStack {
             Object SomeObj = new Object();
             stack.push(SomeObj);
         }
-        java.util.Stack
         Object pop = stack.pop();
     }
 }
