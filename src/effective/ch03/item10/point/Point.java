@@ -17,4 +17,13 @@ public class Point {
         Point p = (Point) obj;
         return p.x == this.x && p.y == this.y;
     }
+
+//    @Override
+//    public boolean equals(Object obj) {
+//        if (obj == null || obj.getClass() != getClass()) {
+//            return false;
+//        }
+//        Point p = (Point) obj;
+//        return p.x == this.x && p.y == this.y;
+//    }
 }

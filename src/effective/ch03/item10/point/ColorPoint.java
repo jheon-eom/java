@@ -29,15 +29,10 @@ public class ColorPoint extends Point {
     }
 
     public static void main(String[] args) {
-//        ColorPoint cp = new ColorPoint(1, 2, Color.YELLOW);
-//        System.out.println(cp.equals(new ColorPoint(1, 2, Color.RED)));
+        ColorPoint p1 = new ColorPoint(1, 2, Color.RED);
+        Point p2 = new Point(1, 2);
+        ColorPoint p3 = new ColorPoint(1, 2, Color.BLUE);
 
-//        Point p = new Point(1, 2);
-//        System.out.println(p.equals(new ColorPoint(1, 2, Color.YELLOW)));
-
-        Point p = new Point(1, 2);
-        ColorPoint cp = new ColorPoint(1, 2, Color.YELLOW);
-//        p.equals(cp);
-        cp.equals(new ColorPoint(1, 2, Color.YELLOW));
+        System.out.println(p1.equals(p2));
     }
 }
