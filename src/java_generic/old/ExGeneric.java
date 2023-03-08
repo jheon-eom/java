@@ -1,4 +1,4 @@
-package java_generic;
+package java_generic.old;
 
 public class ExGeneric implements ExInterfaceGeneric {
     @Override

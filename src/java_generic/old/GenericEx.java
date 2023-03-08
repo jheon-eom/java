@@ -1,4 +1,4 @@
-package java_generic;
+package java_generic.old;
 
 public class GenericEx {
 
